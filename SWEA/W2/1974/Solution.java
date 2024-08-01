@@ -19,9 +19,9 @@ public class Solution {
 	        checkCol();
 	        
 	        if(isColUnique && isRowUnique && isSquareUnique) {
-	        	System.out.println(1);
+	        	System.out.printf("#%d %d\n", i+1, 1);
 	        }else {
-	        	System.out.println(0);
+	        	System.out.printf("#%d %d\n", i+1, 0);
 	        }
     	}
     }

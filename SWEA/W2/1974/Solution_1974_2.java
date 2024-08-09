@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Solution2 {
+public class Solution_1974_2 {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static int[][] sudokuMap = new int[9][9];

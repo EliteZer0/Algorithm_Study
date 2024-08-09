@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class Solution_2005 {
     static int n = 0;
     static int size = 1;
     static Scanner sc = new Scanner(System.in);

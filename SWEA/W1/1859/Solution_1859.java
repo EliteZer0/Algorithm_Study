@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Solution {
+public class Solution_1859 {
 	public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int testcases = Integer.parseInt(br.readLine());
@@ -18,7 +18,7 @@ public class Solution {
 
             long profit = 0;
             int maxPrice = 0;
-            // 뒤에서부터 최대가격 추적하면 무조건 그 가격에 팔아야함. 자기보다 뒷번호에 최댓값 없으면 자기자신이 최댓값이라 이익 0. for문을 줄일 수 있는 방법.
+            
             for (int i = days - 1; i >= 0; i--) {
 
                 if (maxPrice < prices[i]) {

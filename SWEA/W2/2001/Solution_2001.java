@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class Solution_2001 {
     static int n = 0;
     static int m = 0;
     static int[][] flysMap;

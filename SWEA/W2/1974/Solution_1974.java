@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class Solution_1974 {
 
     static int[][] sudokuMap = new int[9][9];
     static boolean isColUnique = false;

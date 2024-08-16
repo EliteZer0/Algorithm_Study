@@ -54,7 +54,7 @@
 - [x] [SWEA 1984번 : 중간 평균값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pw_-KAdcDFAUq)
 
 ## [IM Practice](https://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice) (2024.08.09 ~)
-[IM 연습문제](https://github.com/EliteZer0/Algorithm_Study/tree/main/)
+[IM 연습문제](https://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice/IM_Exercise)
 - [x] 엘사의 전등 스위치
 
 - [x] 분반된 학생 수의 차 최솟값 구하기

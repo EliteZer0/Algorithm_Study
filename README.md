@@ -1,6 +1,6 @@
 # Algorithm_Study
 
-## [SWEA](https://github.com/EliteZer0/Algorithm_Study/tree/main/SWEA) (2024.07.26 ~)
+## [SAFFY Study](https://github.com/EliteZer0/Algorithm_Study/tree/main/SAFFY_Study) (2024.07.26 ~)
 
 ### **SSAFY 서울 10반 스터디 합류**
 
@@ -52,3 +52,7 @@
 - [x] [SWEA 1983번 : 조교의 성적 매기기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PwGK6AcIDFAUq&categoryId=AV5PwGK6AcIDFAUq&categoryType=CODE&problemTitle=1983&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 
 - [x] [SWEA 1984번 : 중간 평균값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pw_-KAdcDFAUq)
+
+## [IM Practice](https://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice) (2024.08.09 ~)
+
+- [x] [엘사의 전등]()

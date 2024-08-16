@@ -54,5 +54,49 @@
 - [x] [SWEA 1984번 : 중간 평균값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pw_-KAdcDFAUq)
 
 ## [IM Practice](https://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice) (2024.08.09 ~)
+[IM 연습문제](https://github.com/EliteZer0/Algorithm_Study/tree/main/)
+- [x] 엘사의 전등 스위치
 
-- [x] [엘사의 전등]()
+- [ ] 분반된 학생 수의 차 최솟값 구하기
+
+[BOJ 문제집 : SW 역량테스트 IM 수준](https://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice/BOJ_Workbook_10168)
+
+- [x] [백준 13300번 : 방 배정](https://www.acmicpc.net/problem/13300)
+
+- [x] [백준 2309번 : 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+
+- [x] [백준 2605번 : 줄 세우기](https://www.acmicpc.net/problem/2605)
+
+- [ ] [백준 2669번 : 직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669)
+
+- [ ] [백준 10163번 : 색종이](https://www.acmicpc.net/problem/10163)
+
+- [x] [백준 14696번 : 딱지놀이](https://www.acmicpc.net/problem/14696)
+
+- [x] [백준 2563번 : 색종이](https://www.acmicpc.net/problem/2563)
+
+- [ ] [백준 2628번 : 종이자르기](https://www.acmicpc.net/problem/2628)
+
+- [ ] [백준 2578번 : 빙고](https://www.acmicpc.net/problem/2578)
+
+- [x] [백준 1244번 : 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
+
+- [ ] [백준 2477번 : 참외밭](https://www.acmicpc.net/problem/2477)
+
+- [ ] [백준 10157번 : 자리배정](https://www.acmicpc.net/problem/10157)
+
+- [ ] [백준 10158번 : 개미](https://www.acmicpc.net/problem/10158)
+
+- [ ] [백준 2559번 : 수열](https://www.acmicpc.net/problem/2559)
+
+- [ ] [백준 2491번 : 수열](https://www.acmicpc.net/problem/2491)
+
+- [ ] [백준 2527번 : 직사각형](https://www.acmicpc.net/problem/2527)
+
+- [ ] [백준 2564번 : 경비원](https://www.acmicpc.net/problem/2564)
+
+[BOJ 문제집 : 삼성 SW 역량 테스트 기출 문제](hhttps://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice/BOJ_Workbook_1152)
+
+- [x] [백준 13458번 : 시험 감독](https://www.acmicpc.net/problem/13458)
+
+- [ ] [백준 14501번 : 퇴사](https://www.acmicpc.net/problem/14501)

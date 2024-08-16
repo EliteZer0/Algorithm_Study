@@ -57,7 +57,7 @@
 [IM 연습문제](https://github.com/EliteZer0/Algorithm_Study/tree/main/)
 - [x] 엘사의 전등 스위치
 
-- [ ] 분반된 학생 수의 차 최솟값 구하기
+- [x] 분반된 학생 수의 차 최솟값 구하기
 
 [BOJ 문제집 : SW 역량테스트 IM 수준](https://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice/BOJ_Workbook_10168)
 

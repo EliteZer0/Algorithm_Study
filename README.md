@@ -95,7 +95,7 @@
 
 - [ ] [백준 2564번 : 경비원](https://www.acmicpc.net/problem/2564)
 
-[BOJ 문제집 : 삼성 SW 역량 테스트 기출 문제](hhttps://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice/BOJ_Workbook_1152)
+[BOJ 문제집 : 삼성 SW 역량 테스트 기출 문제](https://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice/BOJ_Workbook_1152)
 
 - [x] [백준 13458번 : 시험 감독](https://www.acmicpc.net/problem/13458)
 

@@ -13,7 +13,7 @@
 | 5 | 1288 | 1945 | 1970 | 1966 |
 | 6 | 1946 | 1940 | 1976 | 1948 |
 
-[1주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SWEA/W1) (2024.07.19 ~ 2024.07.25) // 미합류
+[1주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SAFFY_Study/W1) (2024.07.19 ~ 2024.07.25) // 미합류
 
 - [x] [SWEA 1859번 : 백만 장자 프로젝트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&categoryId=AV5LrsUaDxcDFAXc&categoryType=CODE&problemTitle=1859&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 
@@ -23,7 +23,7 @@
 
 - [x] [SWEA 1926번 : 간단한 369게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PTeo6AHUDFAUq&categoryId=AV5PTeo6AHUDFAUq&categoryType=CODE&problemTitle=1926&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 
-[2주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SWEA/W2) (2024.07.26 ~ 2024.08.01)
+[2주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SAFFY_Study/W2) (2024.07.26 ~ 2024.08.01)
 
 - [x] [SWEA 2001번 : 백만 장자 프로젝트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&categoryId=AV5LrsUaDxcDFAXc&categoryType=CODE&problemTitle=1859&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 
@@ -33,7 +33,7 @@
 
 - [x] [SWEA 2005번 : 간단한 369게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PTeo6AHUDFAUq&categoryId=AV5PTeo6AHUDFAUq&categoryType=CODE&problemTitle=1926&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 
-[3주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SWEA/W3) (2024.08.02 ~ 2024.08.08)
+[3주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SAFFY_Study/W3) (2024.08.02 ~ 2024.08.08)
 
 - [x] [SWEA 1979번 : 어디에 단어가 들어갈 수 있을까](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PuPq6AaQDFAUq&categoryId=AV5PuPq6AaQDFAUq&categoryType=CODE&problemTitle=1979&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 
@@ -43,7 +43,7 @@
 
 - [x] [SWEA 1961번 : 숫자 배열 회전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pq-OKAVYDFAUq&categoryId=AV5Pq-OKAVYDFAUq&categoryType=CODE&problemTitle=1961&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 
-[4주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SWEA/W4) (2024.08.09 ~ 2024.08.15)
+[4주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SAFFY_Study/W4) (2024.08.09 ~ 2024.08.15)
 
 - [x] [SWEA 1928번 : Base64 Decoder](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PR4DKAG0DFAUq&categoryId=AV5PR4DKAG0DFAUq&categoryType=CODE&problemTitle=1928&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 
@@ -53,7 +53,7 @@
 
 - [x] [SWEA 1984번 : 중간 평균값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pw_-KAdcDFAUq)
 
-[5주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SWEA/W5) (2024.08.16 ~ 2024.08.22)
+[5주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SAFFY_Study/W5) (2024.08.16 ~ 2024.08.22)
 
 - [x] [SWEA 1288번 : 새로운 불면증 치료법](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18_yw6I9MCFAZN&categoryId=AV18_yw6I9MCFAZN&categoryType=CODE&problemTitle=1288&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 
@@ -63,7 +63,7 @@
 
 - [ ] [SWEA 1970번 : ]()
 
-[6주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SWEA/W6) (2024.08.23 ~ 2024.08.29)
+[6주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SAFFY_Study/W6) (2024.08.23 ~ 2024.08.29)
 
 - [ ] [SWEA 1940번 : ]()
 

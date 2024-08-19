@@ -53,8 +53,30 @@
 
 - [x] [SWEA 1984번 : 중간 평균값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pw_-KAdcDFAUq)
 
+[5주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SWEA/W5) (2024.08.16 ~ 2024.08.22)
+
+- [x] [SWEA 1288번 : 새로운 불면증 치료법](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18_yw6I9MCFAZN&categoryId=AV18_yw6I9MCFAZN&categoryType=CODE&problemTitle=1288&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+- [ ] [SWEA 1945번 : ]()
+
+- [ ] [SWEA 1966번 : ]()
+
+- [ ] [SWEA 1970번 : ]()
+
+[6주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SWEA/W6) (2024.08.23 ~ 2024.08.29)
+
+- [ ] [SWEA 1940번 : ]()
+
+- [ ] [SWEA 1946번 : ]()
+
+- [ ] [SWEA 1948번 : ]()
+
+- [ ] [SWEA 1976번 : ]()
+
 ## [IM Practice](https://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice) (2024.08.09 ~)
+
 [IM 연습문제](https://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice/IM_Exercise)
+
 - [x] 엘사의 전등 스위치
 
 - [x] 분반된 학생 수의 차 최솟값 구하기

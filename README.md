@@ -57,11 +57,11 @@
 
 - [x] [SWEA 1288번 : 새로운 불면증 치료법](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18_yw6I9MCFAZN&categoryId=AV18_yw6I9MCFAZN&categoryType=CODE&problemTitle=1288&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 
-- [ ] [SWEA 1945번 : ]()
+- [x] [SWEA 1945번 : 간단한 소인수분해](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq&categoryId=AV5Pl0Q6ANQDFAUq&categoryType=CODE&problemTitle=1945&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&)
 
-- [ ] [SWEA 1966번 : ]()
+- [x] [SWEA 1966번 : 숫자를 정렬하자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PrmyKAWEDFAUq&categoryId=AV5PrmyKAWEDFAUq&categoryType=CODE&problemTitle=1966&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&)
 
-- [ ] [SWEA 1970번 : ]()
+- [x] [SWEA 1970번 : 쉬운 거스름돈](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PsIl6AXIDFAUq)
 
 [6주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SAFFY_Study/W6) (2024.08.23 ~ 2024.08.29)
 

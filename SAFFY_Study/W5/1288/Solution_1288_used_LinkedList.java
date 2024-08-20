@@ -14,10 +14,12 @@ public class Solution_1288_used_LinkedList {
             
             LinkedList<Integer> sheep = new LinkedList<>();
             int trys = 1;
+            int newNums = n;
             
             while(true) {
                 boolean isZero = false;
-                String input = String.valueOf(n);
+                newNums = n*trys;
+                String input = String.valueOf(newNums);
 
                 for (int i = 0; i < input.length(); i++) {
                     sheep.add(input.charAt(i) - '0');
@@ -31,15 +33,15 @@ public class Solution_1288_used_LinkedList {
                     }
                 }
                 if(isZero){
-                    n /= trys;
+//                    n /= trys;
                     trys++;
-                    n *= trys;
+//                    n *= trys;
                 }else{
                     break;
                 }
             }
             StringBuilder sb = new StringBuilder();
-            sb.append("#").append(tcNum).append(" ").append(n);//마지막으로 보는 숫자를 출력하라고 했는데... trys를 출력하니 답이 안나오지...
+            sb.append("#").append(tcNum).append(" ").append(newNums);//마지막으로 보는 숫자를 출력하라고 했는데... trys를 출력하니 답이 안나오지...
             System.out.println(sb.toString());
         }
     }

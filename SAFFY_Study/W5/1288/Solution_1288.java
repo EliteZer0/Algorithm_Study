@@ -11,17 +11,19 @@ public class Solution_1288 {
 			int N = Integer.parseInt(br.readLine());
 			int[] count = new int[10];
 			int i = 1;
+			int newN = N;
 			while(true) {
 				boolean allCount = true;
-				
-				String num = String.valueOf(N);
+				newN = N*i;
+				String num = String.valueOf(newN);
 				char[] nums = num.toCharArray();
 				
 //				System.out.println("String num : " + num);
 //				System.out.println("char[] nums : " + Arrays.toString(nums));
 				
 				for(int j = 0; j<nums.length; j++) {
-					count[Integer.parseInt(String.valueOf(nums[j]))] ++;
+//					count[Integer.parseInt(String.valueOf(nums[j]))] ++;
+					count[nums[j] - '0'] ++;
 				}
 				
 //				System.out.println("int[] count : " + Arrays.toString(count));
@@ -34,14 +36,14 @@ public class Solution_1288 {
 				}
 				
 				if(!allCount) {
-					N/=i;
+//					N/=i;
 					i++;
-					N*=i;
+//					N*=i;
 				}else {
 					break;
 				}
 			}
-			System.out.printf("#%d %d\n", tcNum, N);
+			System.out.printf("#%d %d\n", tcNum, newN);
 			
 		}
 	}

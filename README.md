@@ -139,4 +139,4 @@
 
 - [x] [백준 13458번 : 시험 감독](https://www.acmicpc.net/problem/13458)
 
-- [ ] [백준 14501번 : 퇴사](https://www.acmicpc.net/problem/14501)
+- [x] [백준 14501번 : 퇴사](https://www.acmicpc.net/problem/14501)

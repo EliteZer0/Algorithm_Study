@@ -63,6 +63,8 @@
 
 - [x] [SWEA 1970번 : 쉬운 거스름돈](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PsIl6AXIDFAUq)
 
+- [x] [백준 2805번 : 나무자르기](https://www.acmicpc.net/problem/2805)
+
 [6주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SAFFY_Study/W6) (2024.08.23 ~ 2024.08.29)
 
 - [ ] [SWEA 1940번 : ]()
@@ -72,6 +74,22 @@
 - [ ] [SWEA 1948번 : ]()
 
 - [ ] [SWEA 1976번 : ]()
+
+- [x] [백준 2529번 : 부등호](https://www.acmicpc.net/problem/2529)
+
+- [x] [백준 1339번 : 단어 수학](https://www.acmicpc.net/problem/1339)
+
+- [x] [백준 14888번 : 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+
+- [x] [백준 15658번 : 연산자 끼워넣기(2)](https://www.acmicpc.net/problem/15658)
+
+- [x] [백준 14889번 : 스타트와 링크](https://www.acmicpc.net/problem/14889)
+
+- [x] [백준 6603번 : 로또](https://www.acmicpc.net/problem/6603)
+
+- [x] [백준 1182번 : 부분수열의 합](https://www.acmicpc.net/problem/1182)
+
+- [x] [백준 14225번 : 부분수열의 합](https://www.acmicpc.net/problem/14225)
 
 ## [IM Practice](https://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice) (2024.08.09 ~)
 

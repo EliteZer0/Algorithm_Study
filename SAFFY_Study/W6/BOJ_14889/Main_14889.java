@@ -3,11 +3,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 //import java.util.Arrays;
 import java.util.StringTokenizer;
-
+//이 방식이 더 빠를 거라고 생각했는데 17368KB 256 ms(처음은 18056KB 228 ms)
 public class Main_14889 {
-	static int[] team1;
-	static int[] team2;
-	static int[] people;
 	static int[][] score;
 	static boolean[] visited;
 	static int answer;
@@ -15,10 +12,6 @@ public class Main_14889 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int n = Integer.parseInt(br.readLine());
 		int r = n/2;
-		people = new int[n];
-		for (int i = 0; i < n; i++) {
-			people[i] = i;
-		}
 		score = new int[n][n];
 		for (int i = 0; i < n; i++) {
 			StringTokenizer st = new StringTokenizer(br.readLine());
@@ -26,8 +19,6 @@ public class Main_14889 {
 				score[i][j] = Integer.parseInt(st.nextToken());
 			}
 		}
-		team1 = new int[r];
-		team2 = new int[r];
 		visited = new boolean[n];
 		answer = Integer.MAX_VALUE;
 		combination(0, 0, n, r);
@@ -36,41 +27,32 @@ public class Main_14889 {
 
 	static void combination(int idx, int depth, int n, int r) {
 		if(idx == r) {
-			int size = 0;
-			for (int i = 0; i < n; i++) {
-	            if (!visited[i]) {
-	                team2[size++] = people[i];
-	            }
-	        }
-//			System.out.println("team1: " + Arrays.toString(team1));
-//			System.out.println("team2: " + Arrays.toString(team2));
-			calculator();
+			int team1Sum = 0;
+			int team2Sum = 0;
+			
+			for (int i = 0; i < visited.length; i++) {
+				for (int j = 0; j < visited.length; j++) {
+					if(visited[i]) {
+						if(visited[j]) {
+							team1Sum += score[i][j];
+						}
+					}else {
+						if(!visited[j]) {
+							team2Sum += score[i][j];
+						}
+					}
+				}
+			}
+			int difference = Math.abs(team1Sum - team2Sum);
+//			System.out.println("difference: "+difference);
+			answer = Math.min(answer, difference);
+//			System.out.println("answer: "+answer);  
 			return;
 		}
 		for (int i = depth; i<n; i++) {
 			visited[i] = true;
-			team1[idx] = people[i];
 			combination(idx+1, i+1, n, r);
-			team1[idx] = 0;
 			visited[i] = false;
 		}
 	}
-
-	private static void calculator() {
-		int team1Sum = 0;
-		int team2Sum = 0;
-		
-		for (int i = 0; i < team1.length; i++) {
-			for (int j = 0; j < team1.length; j++) {
-				team1Sum += score[team1[i]][team1[j]];
-				team2Sum += score[team2[i]][team2[j]];
-			}
-		}
-//		System.out.println("team1: "+team1Sum);
-//		System.out.println("team2: "+team2Sum);
-		int difference = Math.abs(team1Sum - team2Sum);
-//		System.out.println("difference: "+difference);
-		answer = Math.min(answer, difference);
-//		System.out.println("answer: "+answer);  
-	}	
 }

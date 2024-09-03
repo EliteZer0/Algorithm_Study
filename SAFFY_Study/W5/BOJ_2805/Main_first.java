@@ -1,3 +1,4 @@
+package BOJ_2805;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

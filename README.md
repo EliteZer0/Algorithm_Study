@@ -90,7 +90,7 @@
 
 - [x] [BOJ 16928번 : 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
 
-- [x] [BOJ 2110번 :  공유기 설치](https://www.acmicpc.net/problem/2110)
+- [ ] [BOJ 2110번 :  공유기 설치](https://www.acmicpc.net/problem/2110)
 
 - [x] [BOJ 16197번 : 두 동전](https://www.acmicpc.net/problem/16197)
 
@@ -98,7 +98,7 @@
 
 - [x] [BOJ 9019번 : DSLR](https://www.acmicpc.net/problem/9019)
 
-- [ ] [BOJ 1922번 : 네트워크 연결](https://www.acmicpc.net/problem/1922)
+- [x] [BOJ 1922번 : 네트워크 연결](https://www.acmicpc.net/problem/1922)
 
 - [x] [SWEA 1767번 : 프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)
 

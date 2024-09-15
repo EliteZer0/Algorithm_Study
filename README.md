@@ -4,15 +4,6 @@
 
 ### **SSAFY 서울 10반 스터디 합류**
 
-| 주차 | 1번 | 2번 | 3번 | 4번 |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | 1859 | 1204 | 1954 | 1926 |
-| 2 | 2001 | 1974 | 2007 | 2005 |
-| 3 | 1979 | 1284 | 1989 | 1961 |
-| 4 | 1984 | 1959 | 1983 | 1928 |
-| 5 | 1288 | 1945 | 1970 | 1966 |
-| 6 | 1946 | 1940 | 1976 | 1948 |
-
 [1주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SAFFY_Study/W1) (2024.07.19 ~ 2024.07.25) // 미합류
 
 - [x] [SWEA 1859번 : 백만 장자 프로젝트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&categoryId=AV5LrsUaDxcDFAXc&categoryType=CODE&problemTitle=1859&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
@@ -63,7 +54,7 @@
 
 - [x] [SWEA 1970번 : 쉬운 거스름돈](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PsIl6AXIDFAUq)
 
-- [x] [백준 2805번 : 나무자르기](https://www.acmicpc.net/problem/2805)
+- [x] [BOJ 2805번 : 나무자르기](https://www.acmicpc.net/problem/2805)
 
 [6주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SAFFY_Study/W6) (2024.08.23 ~ 2024.08.29)
 
@@ -75,21 +66,55 @@
 
 - [ ] [SWEA 1976번 : ]()
 
-- [x] [백준 2529번 : 부등호](https://www.acmicpc.net/problem/2529)
+- [x] [BOJ 2529번 : 부등호](https://www.acmicpc.net/problem/2529)
 
-- [x] [백준 1339번 : 단어 수학](https://www.acmicpc.net/problem/1339)
+- [x] [BOJ 1339번 : 단어 수학](https://www.acmicpc.net/problem/1339)
 
-- [x] [백준 14888번 : 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+- [x] [BOJ 14888번 : 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
 
-- [x] [백준 15658번 : 연산자 끼워넣기(2)](https://www.acmicpc.net/problem/15658)
+- [x] [BOJ 15658번 : 연산자 끼워넣기(2)](https://www.acmicpc.net/problem/15658)
 
-- [x] [백준 14889번 : 스타트와 링크](https://www.acmicpc.net/problem/14889)
+- [x] [BOJ 14889번 : 스타트와 링크](https://www.acmicpc.net/problem/14889)
 
-- [x] [백준 6603번 : 로또](https://www.acmicpc.net/problem/6603)
+- [x] [BOJ 6603번 : 로또](https://www.acmicpc.net/problem/6603)
 
-- [x] [백준 1182번 : 부분수열의 합](https://www.acmicpc.net/problem/1182)
+- [x] [BOJ 1182번 : 부분수열의 합](https://www.acmicpc.net/problem/1182)
 
-- [x] [백준 14225번 : 부분수열의 합](https://www.acmicpc.net/problem/14225)
+- [x] [BOJ 14225번 : 부분수열의 합](https://www.acmicpc.net/problem/14225)
+
+[7-8주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SAFFY_Study/W7) (2024.08.30 ~ 2024.09.12)
+
+- [x] [BOJ 16948번 : 데스나이트](https://www.acmicpc.net/problem/16948)
+
+- [x] [BOJ 16198번 : 에너지 모으기](https://www.acmicpc.net/problem/16198)
+
+- [x] [BOJ 16928번 : 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
+
+- [x] [BOJ 2110번 :  공유기 설치](https://www.acmicpc.net/problem/2110)
+
+- [x] [BOJ 16197번 : 두 동전](https://www.acmicpc.net/problem/16197)
+
+- [x] [BOJ 14500번 : 테트로미노](https://www.acmicpc.net/problem/14500)
+
+- [x] [BOJ 9019번 : DSLR](https://www.acmicpc.net/problem/9019)
+
+- [ ] [BOJ 1922번 : 네트워크 연결](https://www.acmicpc.net/problem/1922)
+
+- [x] [SWEA 1767번 : 프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)
+
+[9주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SAFFY_Study/W9) (2024.09.13 ~ 2024.09.19)
+
+- [ ] [BOJ 1285번 : 동전 뒤집기](https://www.acmicpc.net/problem/1285)
+
+- [ ] [BOJ 6087번 : 레이저 통신](https://www.acmicpc.net/problem/6087)
+
+- [ ] [BOJ 16954번 : 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)
+
+- [ ] [BOJ 2138번 :  전구와 스위치](https://www.acmicpc.net/problem/2138)
+
+- [ ] [BOJ 12886번 : 돌 그룹](https://www.acmicpc.net/problem/12886)
+
+- [ ] [BOJ 11664번 : 선분과 점](https://www.acmicpc.net/problem/11664)
 
 ## [IM Practice](https://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice) (2024.08.09 ~)
 
@@ -101,42 +126,42 @@
 
 [BOJ 문제집 : SW 역량테스트 IM 수준](https://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice/BOJ_Workbook_10168)
 
-- [x] [백준 13300번 : 방 배정](https://www.acmicpc.net/problem/13300)
+- [x] [BOJ 13300번 : 방 배정](https://www.acmicpc.net/problem/13300)
 
-- [x] [백준 2309번 : 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+- [x] [BOJ 2309번 : 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 
-- [x] [백준 2605번 : 줄 세우기](https://www.acmicpc.net/problem/2605)
+- [x] [BOJ 2605번 : 줄 세우기](https://www.acmicpc.net/problem/2605)
 
-- [ ] [백준 2669번 : 직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669)
+- [ ] [BOJ 2669번 : 직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669)
 
-- [ ] [백준 10163번 : 색종이](https://www.acmicpc.net/problem/10163)
+- [ ] [BOJ 10163번 : 색종이](https://www.acmicpc.net/problem/10163)
 
-- [x] [백준 14696번 : 딱지놀이](https://www.acmicpc.net/problem/14696)
+- [x] [BOJ 14696번 : 딱지놀이](https://www.acmicpc.net/problem/14696)
 
-- [x] [백준 2563번 : 색종이](https://www.acmicpc.net/problem/2563)
+- [x] [BOJ 2563번 : 색종이](https://www.acmicpc.net/problem/2563)
 
-- [ ] [백준 2628번 : 종이자르기](https://www.acmicpc.net/problem/2628)
+- [ ] [BOJ 2628번 : 종이자르기](https://www.acmicpc.net/problem/2628)
 
-- [ ] [백준 2578번 : 빙고](https://www.acmicpc.net/problem/2578)
+- [ ] [BOJ 2578번 : 빙고](https://www.acmicpc.net/problem/2578)
 
-- [x] [백준 1244번 : 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
+- [x] [BOJ 1244번 : 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
 
-- [ ] [백준 2477번 : 참외밭](https://www.acmicpc.net/problem/2477)
+- [ ] [BOJ 2477번 : 참외밭](https://www.acmicpc.net/problem/2477)
 
-- [ ] [백준 10157번 : 자리배정](https://www.acmicpc.net/problem/10157)
+- [ ] [BOJ 10157번 : 자리배정](https://www.acmicpc.net/problem/10157)
 
-- [ ] [백준 10158번 : 개미](https://www.acmicpc.net/problem/10158)
+- [ ] [BOJ 10158번 : 개미](https://www.acmicpc.net/problem/10158)
 
-- [ ] [백준 2559번 : 수열](https://www.acmicpc.net/problem/2559)
+- [ ] [BOJ 2559번 : 수열](https://www.acmicpc.net/problem/2559)
 
-- [ ] [백준 2491번 : 수열](https://www.acmicpc.net/problem/2491)
+- [ ] [BOJ 2491번 : 수열](https://www.acmicpc.net/problem/2491)
 
-- [ ] [백준 2527번 : 직사각형](https://www.acmicpc.net/problem/2527)
+- [ ] [BOJ 2527번 : 직사각형](https://www.acmicpc.net/problem/2527)
 
-- [ ] [백준 2564번 : 경비원](https://www.acmicpc.net/problem/2564)
+- [ ] [BOJ 2564번 : 경비원](https://www.acmicpc.net/problem/2564)
 
 [BOJ 문제집 : 삼성 SW 역량 테스트 기출 문제](https://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice/BOJ_Workbook_1152)
 
-- [x] [백준 13458번 : 시험 감독](https://www.acmicpc.net/problem/13458)
+- [x] [BOJ 13458번 : 시험 감독](https://www.acmicpc.net/problem/13458)
 
-- [x] [백준 14501번 : 퇴사](https://www.acmicpc.net/problem/14501)
+- [x] [BOJ 14501번 : 퇴사](https://www.acmicpc.net/problem/14501)

@@ -58,14 +58,6 @@
 
 [6주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SSAFY_Study/W6) (2024.08.23 ~ 2024.08.29)
 
-- [ ] [SWEA 1940번 : ]()
-
-- [ ] [SWEA 1946번 : ]()
-
-- [ ] [SWEA 1948번 : ]()
-
-- [ ] [SWEA 1976번 : ]()
-
 - [x] [BOJ 2529번 : 부등호](https://www.acmicpc.net/problem/2529)
 
 - [x] [BOJ 1339번 : 단어 수학](https://www.acmicpc.net/problem/1339)
@@ -106,17 +98,46 @@
 
 - [ ] [BOJ 1285번 : 동전 뒤집기](https://www.acmicpc.net/problem/1285)
 
-- [ ] [BOJ 6087번 : 레이저 통신](https://www.acmicpc.net/problem/6087)
+- [x] [BOJ 6087번 : 레이저 통신](https://www.acmicpc.net/problem/6087)
 
-- [ ] [BOJ 16954번 : 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)
+- [x] [BOJ 16954번 : 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)
 
-- [ ] [BOJ 2138번 :  전구와 스위치](https://www.acmicpc.net/problem/2138)
+- [x] [BOJ 2138번 :  전구와 스위치](https://www.acmicpc.net/problem/2138)
 
-- [ ] [BOJ 12886번 : 돌 그룹](https://www.acmicpc.net/problem/12886)
+- [x] [BOJ 12886번 : 돌 그룹](https://www.acmicpc.net/problem/12886)
 
-- [ ] [BOJ 11664번 : 선분과 점](https://www.acmicpc.net/problem/11664)
+- [x] [BOJ 11664번 : 선분과 점](https://www.acmicpc.net/problem/11664)
 
-## [IM Practice](https://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice) (2024.08.09 ~)
+[10주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SSAFY_Study/W10) (2024.09.20 ~ 2024.09.27)
+
+- [x] [BOJ 11722번 : 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)
+	 
+- [x] [BOJ 4179번 : 불!](https://www.acmicpc.net/problem/4179)
+
+- [x] [BOJ 1477번 : 휴게소 세우기](https://www.acmicpc.net/problem/1477)
+
+- [x] [BOJ 1976번 :  여행 가자](https://www.acmicpc.net/problem/1976)
+
+- [x] [BOJ 1916번 : 최소비용 구하기](https://www.acmicpc.net/problem/1916)
+
+- [ ] [BOJ 2252번 : 줄 세우기](https://www.acmicpc.net/problem/2252)
+
+[11주차](https://github.com/EliteZer0/Algorithm_Study/tree/main/SSAFY_Study/W11) (2024.09.27 ~ 2024.10.04)
+	 
+- [x] [BOJ 11729번 : 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
+	 	 
+- [x] [BOJ 12015번 : 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
+
+- [x] [BOJ 2022번 : 사다리](https://www.acmicpc.net/problem/2022)
+
+- [x] [BOJ 1963번 :  소수 경로](https://www.acmicpc.net/problem/1963)
+
+- [ ] [BOJ 2580번 : 스도쿠](https://www.acmicpc.net/problem/2580)
+
+
+## [삼성 SW 역량 테스트 IM](https://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice) (2024.08.09 ~ 2024.08.19)
+
+### 8월 19일 IM 등급 취득 완료
 
 [IM 연습문제](https://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice/IM_Exercise)
 
@@ -132,36 +153,20 @@
 
 - [x] [BOJ 2605번 : 줄 세우기](https://www.acmicpc.net/problem/2605)
 
-- [ ] [BOJ 2669번 : 직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669)
-
-- [ ] [BOJ 10163번 : 색종이](https://www.acmicpc.net/problem/10163)
-
 - [x] [BOJ 14696번 : 딱지놀이](https://www.acmicpc.net/problem/14696)
 
 - [x] [BOJ 2563번 : 색종이](https://www.acmicpc.net/problem/2563)
 
-- [ ] [BOJ 2628번 : 종이자르기](https://www.acmicpc.net/problem/2628)
-
-- [ ] [BOJ 2578번 : 빙고](https://www.acmicpc.net/problem/2578)
-
 - [x] [BOJ 1244번 : 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
-
-- [ ] [BOJ 2477번 : 참외밭](https://www.acmicpc.net/problem/2477)
-
-- [ ] [BOJ 10157번 : 자리배정](https://www.acmicpc.net/problem/10157)
-
-- [ ] [BOJ 10158번 : 개미](https://www.acmicpc.net/problem/10158)
-
-- [ ] [BOJ 2559번 : 수열](https://www.acmicpc.net/problem/2559)
-
-- [ ] [BOJ 2491번 : 수열](https://www.acmicpc.net/problem/2491)
-
-- [ ] [BOJ 2527번 : 직사각형](https://www.acmicpc.net/problem/2527)
-
-- [ ] [BOJ 2564번 : 경비원](https://www.acmicpc.net/problem/2564)
 
 [BOJ 문제집 : 삼성 SW 역량 테스트 기출 문제](https://github.com/EliteZer0/Algorithm_Study/tree/main/IM_Practice/BOJ_Workbook_1152)
 
 - [x] [BOJ 13458번 : 시험 감독](https://www.acmicpc.net/problem/13458)
 
 - [x] [BOJ 14501번 : 퇴사](https://www.acmicpc.net/problem/14501)
+
+## [삼성 SW 역량 테스트 A형](https://github.com/EliteZer0/Algorithm_Study/tree/main/A_Practice) (2024.08.19 ~ )
+
+[SWEA](https://github.com/EliteZer0/Algorithm_Study/tree/main/A_Practice/SWEA)
+
+- [x] [SWEA 1767번 : 프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)

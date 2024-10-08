@@ -2,23 +2,23 @@
 
 ## [알고리즘 개념 정리](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study) (2024.07.29 ~ )
 
-### [이진 탐색(Binary Search)](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/BinarySearch)
+#### [이진 탐색(Binary Search)](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/BinarySearch)
 
-### [버블 정렬(Bubble Sort)](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/BubbleSort)
+#### [버블 정렬(Bubble Sort)](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/BubbleSort)
 
-### [선택 정렬(Selection Sort)](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/SelectionSort)
+#### [선택 정렬(Selection Sort)](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/SelectionSort)
 
-### [카운팅 정렬(Counting Sort)](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/CountingSort)
+#### [카운팅 정렬(Counting Sort)](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/CountingSort)
 
-### [백트래킹(Backtracking))](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/Backtracking)
+#### [백트래킹(Backtracking))](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/Backtracking)
 
-### [너비 우선 탐색(BFS))](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/BFS)
+#### [너비 우선 탐색(BFS))](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/BFS)
 
-### [깊이 우선 탐색(DFS))](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/BFS)
+#### [깊이 우선 탐색(DFS))](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/BFS)
 
-### [합병 정렬(Merge Sort)](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/MergeSort)
+#### [합병 정렬(Merge Sort)](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/MergeSort)
 
-### [퀵 정렬(Quick Sort)](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/QuickSort)
+#### [퀵 정렬(Quick Sort)](https://github.com/EliteZer0/Algorithm_Study/tree/main/Concepts_Study/QuickSort)
 
 ## [SSAFY Study](https://github.com/EliteZer0/Algorithm_Study/tree/main/SSAFY_Study) (2024.07.26 ~ )
 

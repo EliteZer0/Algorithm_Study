@@ -37,8 +37,8 @@ public class Main_13308 {
 	}
 	
 	static int N, M;
-	static int[] oilPrice;
-	static List<Edge>[] edges;
+	static int[] oilPrice;//각 도시 기름 가격 저장 배열
+	static List<Edge>[] edges;//연결된 도로 리스트
 	
 	public static void main(String[] args) throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -57,11 +57,12 @@ public class Main_13308 {
             
 		for (int i = 0; i < M; i++) {
 			st = new StringTokenizer(br.readLine());
-			int f = Integer.parseInt(st.nextToken());
-			int t = Integer.parseInt(st.nextToken());
-			int d = Integer.parseInt(st.nextToken());
-			edges[f].add(new Edge(t, d));
-			edges[t].add(new Edge(f, d));
+			int start = Integer.parseInt(st.nextToken());//시작도시
+			int end = Integer.parseInt(st.nextToken());//도착도시
+			int distance = Integer.parseInt(st.nextToken());//거리
+			//양방향임
+			edges[start].add(new Edge(end, distance));
+			edges[end].add(new Edge(start, distance));
 		}
             
 		sb.append(dijkstra());
@@ -77,10 +78,11 @@ public class Main_13308 {
 		
 		while (!pq.isEmpty()) {
 			Node n = pq.poll();
-			
+			//도착도시가 N이면 리턴
 			if (n.cur == N) return n.totalCost;
 			
 			for (Edge e : edges[n.cur]) {
+				//시간초과 방지용 : 최소비용보다 크거나 같으면 패스
 				if (dp[e.to][n.minCost] <= n.totalCost + (e.cost * n.minCost)) continue;
 				dp[e.to][n.minCost] = n.totalCost + (e.cost * n.minCost);
 				pq.offer(new Node(e.to, Math.min(n.minCost, oilPrice[e.to]), dp[e.to][n.minCost]));	

@@ -24,7 +24,7 @@ public class Main_13703 {
             return;
         }
 		
-		int[][] dp = new int[time+1][time*2 +1];
+		long[][] dp = new long[time+1][time*2 +1];//count만 long처리 하고 dp 배열을 int 처리해서 틀림.
 		
 		dp[0][time] = 1;
 		
@@ -34,7 +34,7 @@ public class Main_13703 {
 					dp[i][j] = 0;
 				} else if(j == 0) {
 					dp[i][j] = dp[i-1][j+1];
-				}else if(j == time*2) {
+				} else if(j == time*2) {
 					dp[i][j] = dp[i-1][j-1];
 				} else {
 					dp[i][j] = dp[i-1][j-1] + dp[i-1][j+1];

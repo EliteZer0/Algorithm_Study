@@ -3,8 +3,8 @@ package BOJ_13703_물벼룩의생존확률;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.StringTokenizer;
+//파스칼의 삼각형 활용
 /*
  2 3
  0   0   0   1   0   0   0 

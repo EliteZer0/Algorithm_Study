@@ -27,7 +27,7 @@ public class Main_1660 {
 		for (int i = 1; i < dp.length; i++) {
 			for (int j = 1; j < tetrahedralNum.length; j++) {
 				if(i>= tetrahedralNum[j]) {
-					dp[i] = Math.min(dp[i], dp[i-tetrahedralNum[j]]+1);
+					dp[i] = Math.min(dp[i], dp[i-tetrahedralNum[j]]+1);//자기자신이상 사면체수[j] 뺀 dp 배열 값 +1 중 최소로 저장
 				}
 			}
 		}
